@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "AI Tools CO2 Tracking Extension",
+    "description": "The Beginning of Building",
+    "version": "1.0",
+    "action": {
+      "default_popup": "aico2.html",
+      "default_icon": "aico2_extension.png"
+    }
+  }
